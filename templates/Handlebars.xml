@@ -1,0 +1,7 @@
+<templateSet group="Handlebars">
+  <template name="log" value="{{log $END$}}" description="{{log}} expansion" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Handlebars" value="true" />
+    </context>
+  </template>
+</templateSet>
