@@ -3,4 +3,7 @@
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
+  <component name="EditorSettings">
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  </component>
 </application>
