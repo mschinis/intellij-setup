@@ -1,13 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.10.6" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="tabsHeight" value="30" />
-    <option name="tabOpacity" value="0" />
-    <option name="userId" value="37b3e7a7:164f0e6849a:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="tabOpacity" value="0" />
+    <option name="tabsHeight" value="30" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="userId" value="37b3e7a7:164f0e6849a:-7fff" />
+    <option name="version" value="3.0.0-pre4" />
   </component>
 </application>
