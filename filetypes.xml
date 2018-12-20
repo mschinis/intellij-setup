@@ -1,14 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile-dev" type="Dockerfile" />
-      <mapping pattern="elementId" type="JavaScript" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="scss" type="PLAIN_TEXT" />
-      <mapping pattern="my_deck" type="PLAIN_TEXT" />
-      <mapping pattern="BackgroundCloudinaryImage" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="*.feature.migrated" type="Cucumber" />
+      <mapping pattern="Dockerfile-test" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

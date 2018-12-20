@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Custom" parent="Mac OS X 10.5+">
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -31,10 +31,24 @@
   <action id="EditorMoveToPageTop">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="EditorNextWord" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorNextWordWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
+  <action id="EditorPreviousWord" />
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="EditorPreviousWordWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorSelectLine">
